@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.symbol"
+    ],
+    "rootDir": "./src",
+    "declaration": true,
+    "outDir": "dist",
+    "declarationDir": "types"
+  },
+  "exclude": [
+    "node_modules",
+    "example",
+    "types"
+  ]
+}
