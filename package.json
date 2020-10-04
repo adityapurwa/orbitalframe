@@ -1,5 +1,5 @@
 {
-  "name": "orbitalframe",
+  "name": "@adityapurwa/orbitalframe",
   "version": "0.0.1",
   "description": "Workflow framework to simplify your life",
   "main": "dist/index.js",
