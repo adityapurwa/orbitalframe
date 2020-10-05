@@ -1,12 +1,13 @@
 {
   "name": "@adityapurwa/orbitalframe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Workflow framework to simplify your life",
   "main": "dist/index.js",
   "types": "types/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "ex-time-bot": "ts-node example/time-bot.ts",
+    "ex-ping": "ts-node example/ping.ts",
     "build": "tsc"
   },
   "keywords": [
